@@ -1,0 +1,7 @@
+
+task_1 :
+
+it was written by c++  and from what i get from the description the user will enter any numbers of modules will be for the motherboared and 
+and their names and i test all possiables orders fo the modules with test id for every one  so isupposed to take unexpected numbers of string at run time so i used vector type string to get the input from the userand
+then i searched for function to get this output and i found findPermutations function and i modified to take vector input and dialing with it and then i searched how to output csv file from c++ and 
+imported csv library and put all the vector strings in stored array to put them in one line in every order on csv fil.
